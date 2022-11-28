@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a3eaa5e3.css","mappings":"AAAA,KAEI,YAAa,CAEb,sBAAiB,CADjB,kBAEJ","sources":["index.css"],"sourcesContent":["body{\r\n    margin: auto;\r\n    display: grid;\r\n    place-items: center;\r\n    margin-top: 150px;\r\n}"],"names":[],"sourceRoot":""}
